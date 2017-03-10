@@ -1,3 +1,8 @@
+Needed for OpenShift-Origin demo. 
+To change the content and doing a rolling update OpenShift Origin.
+The original can be found here:
+link: https://github.com/openshift-roadshow/nationalparks-katacoda[nationalparks-katacoda]
+
 = NationalParks backend application (Python)
 
 This application is a backend that provides geolocation information about
